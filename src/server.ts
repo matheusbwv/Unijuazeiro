@@ -12,5 +12,5 @@ if (media < 6 ){
     console.log("sua media foi " + media.toFixed(2) + " : reprovado")
 } else {
     console.log("sua media foi " + media.toFixed(2) + " : aprovado") 
-}
+} 
 
