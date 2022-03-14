@@ -1,5 +1,3 @@
-import { parse } from "path";
-
 const prompt = require("prompt-sync")();
 const n1 = prompt("digite um número: ")
 const n2 = prompt("digite um número: ")
